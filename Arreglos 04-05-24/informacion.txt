@@ -1,0 +1,5 @@
+Elemento del nuevo arreglo: 1
+Elemento del nuevo arreglo: 2
+Elemento del nuevo arreglo: 5
+Elemento del nuevo arreglo: 10
+Mouse		Teclado		Papel		
